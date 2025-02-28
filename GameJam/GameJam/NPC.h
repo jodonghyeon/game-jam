@@ -24,8 +24,8 @@ public:
 	std::vector<IVector2>	GetPath() const { return path; }
 
 	static constexpr float radius = 20.f;
-	static constexpr int speed_min = 30;
-	static constexpr int speed_max = 70;
+	static constexpr int speed_min = 15;
+	static constexpr int speed_max = 30;
 private:
 	std::string				name;
 	std::array<std::array<Tile, NumTilesX>, NumTilesY>	NPC_map = DefaultMap;

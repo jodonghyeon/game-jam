@@ -1,1 +1,2 @@
 C:\Users\jack9\Programing Files\GameJam\GameJam\GameJam\x64\Release\GameJam.vcxproj.Up2Date
+C:\Users\jack9\Programing Files\game-jam\GameJam\GameJam\x64\Release\GameJam.vcxproj.Up2Date
